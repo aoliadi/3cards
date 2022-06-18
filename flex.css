@@ -154,10 +154,10 @@ FOOTER
 ========
 */
 .footer__container {
-  border: 1px solid #000;
   width: 100%;
   text-align: center;
   margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 /* 
